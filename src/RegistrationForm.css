@@ -1,0 +1,58 @@
+.registration-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #259a13;
+    border-radius: 40px;
+  }
+  
+  .input-group {
+    margin-bottom: 20px;
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input-group input[type="text"],
+  .input-group input[type="email"],
+  .input-group input[type="password"],
+  .input-group textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .input-group select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid hsla(196, 66%, 30%, 0.921);
+    border-radius: 4px;
+  }
+  
+  .button-group {
+    text-align: center;
+  }
+  
+  .button-group button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .button-group button:hover {
+    background-color: #432679;
+  }
+  button[type='submit']:hover {
+    background-color: #5e3bab;
+    margin-bottom: 5px;
+  }
+  
+  
+  
+  
